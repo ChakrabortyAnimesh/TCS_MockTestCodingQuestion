@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564588664 source:f:\codejam\square root of a number without using math.h function\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
